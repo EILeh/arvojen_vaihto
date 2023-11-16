@@ -10,7 +10,7 @@ int main(int argc, char *argv[])
   printf("%d %d %d\n", x, y, z);
   vaihda(&x, &y);
   printf("%d %d %d\n", x, y, z);
-/*  jarjesta(&x, &y, &z);
-  printf("%d %d %d\n", x, y, z);*/
+  jarjesta(&x, &y, &z);
+  printf("%d %d %d\n", x, y, z);
   return 0;
 }
