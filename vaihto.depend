@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1700119733 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\arvojen_vaihto\main.c
+	<stdio.h>
+	<stdlib.h>
+	"vaihto.h"
+
+1700119517 c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\arvojen_vaihto\vaihto.h
+
+1700119917 source:c:\users\elli\documents\yliopisto\2. vuosi\2023-2024\1.-2. periodi\ohjelmoinnin tekniikka c\osa 2\arvojen_vaihto\vaihto.c
+	<stdio.h>
+	<stdlib.h>
+	"vaihto.h"
+
